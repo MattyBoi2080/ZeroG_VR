@@ -1855,7 +1855,7 @@ GameObject:
   - component: {fileID: 229104284}
   - component: {fileID: 229104283}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: GravityManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17125,7 +17125,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 9fdfaa4c7afe64eccbaf6978446223f6, type: 3}
       propertyPath: m_Name
-      value: Free-Airplane-Interior-3D-Model
+      value: Airplane
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
